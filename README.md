@@ -42,7 +42,8 @@ python testings.py or videos.py
 ![image](https://github.com/Sourabhshintre/Animal-Behaviour-and-Disease-Detection/assets/96312514/16b2e390-28c6-4e77-b64e-c7e105a361c8)
 
 output:
-![image](https://github.com/Sourabhshintre/Animal-Behaviour-and-Disease-Detection/assets/96312514/699540e4-36a7-43e6-a918-74b3a115a79f)
+![image](https://github.com/Sourabhshintre/Animal-Behaviour-and-Disease-Detection/assets/96312514/f481a88b-2d51-481d-9338-749c93b92bc5)
+
 
 
 
