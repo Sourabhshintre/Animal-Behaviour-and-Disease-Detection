@@ -22,7 +22,7 @@ This repository provides a robust solution for real-time animal behavior detecti
    - **Note:** It is recommended to run this project in a virtual environment named "myenv" using the following command:
     myenv/Script/activate
 
-3. **Configuration:** Replace the config file in the "env" folder with your specific configuration.
+3. **Configuration:** Replace the config file in the "myenv" folder with your specific configuration.
 
 ## Usage
 
