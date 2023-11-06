@@ -28,11 +28,11 @@ This repository provides a robust solution for real-time animal behavior detecti
 
 Here's how you can quickly get started:
 
-```python
 # Run animal behavior detection
 python testings.py or videos.py
 
-#Screenshots
+##Screenshots
+
 1.Input and Output
 ![image](https://github.com/Sourabhshintre/Animal-Behaviour-and-Disease-Detection/assets/96312514/126de5d5-4240-4ac3-9899-35e393896979)
 ![image](https://github.com/Sourabhshintre/Animal-Behaviour-and-Disease-Detection/assets/96312514/5b1d04c5-e314-4869-b6cb-f6808d433e1b)
@@ -40,7 +40,6 @@ python testings.py or videos.py
 2.Input and Output
 ![image](https://github.com/Sourabhshintre/Animal-Behaviour-and-Disease-Detection/assets/96312514/c6445892-b4ae-4229-884e-314aad77e448)
 ![image](https://github.com/Sourabhshintre/Animal-Behaviour-and-Disease-Detection/assets/96312514/16b2e390-28c6-4e77-b64e-c7e105a361c8)
-
 
 output:
 ![image](https://github.com/Sourabhshintre/Animal-Behaviour-and-Disease-Detection/assets/96312514/699540e4-36a7-43e6-a918-74b3a115a79f)
